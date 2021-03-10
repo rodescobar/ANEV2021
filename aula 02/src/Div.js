@@ -1,5 +1,5 @@
 export default function Div() {
     return(
-      <h3>Oi div</h3>
+      <h3>Isto é uma div</h3>
     )
 }
