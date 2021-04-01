@@ -40,10 +40,18 @@ _app.js_
 **Criando um projeto em _REACT_**
 > npx create-reacp-app <nome>
 
-**Iniciando o projeto _(start na aplicação)_
+**Iniciando o projeto _(start na aplicação)_**
 > npm start
 
 
+# Comandos que mais utilizaremos durante o curso
+**Atualizando a base local com a última versão do git**
+> git pull
 
+**Criando um projeto em _REACT_**
+> npx create-reacp-app <nome>
+
+**Iniciando o projeto _(start na aplicação)_**
+> npm start
 
 ***Professor: Rodrigo Escobar***
