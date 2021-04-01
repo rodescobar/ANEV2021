@@ -1,12 +1,12 @@
 # Conteúdo ministrado
 
-##Aula 01##
+## Aula 01
 - Apresentação do conteúdo e disciplina;
 
-##Aula 02
+## Aula 02
 - O que é _REACT_, primeiras visões sobre estrutura de pastas e arquivos.
 
-##Aula 03
+## Aula 03
 - O que é GIT, entendendos os comandos e conceito de branchs.
 
 **Clonando um repositório**
@@ -24,14 +24,14 @@
 **Atualizando a base local com a última versão do git**
 > git pull
 
-##Aula 04 
+## Aula 04 
 - Criação de um exemplo _REACT_.
 - Explicação do arquivo _.gitignore_
 
-##Aula 05
+## Aula 05
 - Semana de Tecnologia
 
-##Aula 06
+## Aula 06
 - Entendendo os arquivos
 _index.js_
 _app.js_
