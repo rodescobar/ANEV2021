@@ -37,8 +37,16 @@ _index.js_
 _app.js_
 - O que é componentes? E pq os utilizamos em _React_
 
+## Aula 07 06/04/2021
+- Variáveis de estado useState()
+- Quando são utlizadas, pq são utilizadas e diferença entre as variáveis comuns
+- Executando funções dentro do componente
+- _console.log()_
+
+
+
 **Criando um projeto em _REACT_**
-> npx create-reacp-app <nome>
+> npx create-react-app <nome>
 
 **Iniciando o projeto _(start na aplicação)_**
 > npm start
@@ -49,7 +57,7 @@ _app.js_
 > git pull
 
 **Criando um projeto em _REACT_**
-> npx create-reacp-app <nome>
+> npx create-react-app <nome>
 
 **Iniciando o projeto _(start na aplicação)_**
 > npm start
