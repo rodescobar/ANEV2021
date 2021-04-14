@@ -51,7 +51,12 @@ _app.js_
 - Executando funções dentro do componente
 - _console.log()_
 
+## Aula 08 13/04/2021
+- Trabalhando com CSS em React
+- Listas em variáveis de estado useState()
 
+## Aula 08 13/04/2021 - Lista de exercício
+- Lista de exercício na pasta aula08_ListaExercício
 
 
 # Comandos que mais utilizaremos durante o curso

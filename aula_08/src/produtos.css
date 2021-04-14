@@ -1,0 +1,10 @@
+body {
+    background-color: #FAFAFA;
+    font-family: "Orelega One";
+}
+
+.liProdutos > li {
+    font-style: italic;
+    color: tomato
+}
+
