@@ -58,6 +58,17 @@ _app.js_
 ## Aula 08 13/04/2021 - Lista de exercício
 - Lista de exercício na pasta aula08_ListaExercício
 
+## Aula 09 20/04/2021
+- Utilizando o axios
+- Consumindo via RESTAPI endereços através do CEP
+>https://ws.apicep.com/
+
+- Consumindo fotos do site 
+https://jsonplaceholder.typicode.com/
+
+> npm install --save axios
+
+
 
 # Comandos que mais utilizaremos durante o curso
 **Atualizando a base local com a última versão do git**
