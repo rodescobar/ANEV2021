@@ -68,6 +68,10 @@ https://jsonplaceholder.typicode.com/
 
 > npm install --save axios
 
+## Aula 10 - 27/04/2021
+- Entendendo o _useEffect_ e quando utiliza-lo.
+- Montando um formulário de login, para validação em servidor remoto
+    *OBS: Erro de cors que será visto na aula 11
 
 
 # Comandos que mais utilizaremos durante o curso
