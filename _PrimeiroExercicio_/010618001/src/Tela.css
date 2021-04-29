@@ -1,0 +1,25 @@
+html {
+  margin: 5px;
+  background-color: #fafafa;
+  font-family: "Poppins", sans-serif;
+}
+
+input {
+  background-color: rgb(139, 193, 218);
+  border: 1px solid rgb(30,178,247);
+}
+
+.caixa-central {
+  margin-top: 40px;
+  text-align: center;
+  width: 80%;
+  border: 1px solid #000;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.texto-caixa-central {
+  background-color: tomato;
+  color: darkblue;
+  text-align: center;
+}

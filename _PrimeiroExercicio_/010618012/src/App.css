@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.App {
+  margin: 5px;
+  background-color: #FAFAFA;
+  font-family: 'Poppins';
+}
+
+.App input {
+  width: 180px;
+  height: 20px;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 40px;
+  outline: #c2c2c2;
+  border: 1px solid rgb(30,178,247);
+  background-color: rgb(139, 193, 218);
+}
+.linha{
+  align-items: center;
+  display: flex;
+}
+
+
+.caixa {
+  margin-top: 40px;
+  text-align: center;
+  width: 80%;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.texto {
+  background-color: tomato;
+  text-align: center;
+  color: darkblue;
+}

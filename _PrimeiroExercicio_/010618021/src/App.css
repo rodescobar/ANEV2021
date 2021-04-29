@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.App {
+  margin: 5px;
+  background-color: #FAFAFA;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App input {
+  background-color: rgb(139, 193, 218);
+  border: 1px solid rgb(30, 178, 247);
+}
+
+/* caixa central */
+.Soma_resp {
+  margin-top: 40px;
+  text-align: center;
+  width: 80%;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.Resultado {
+  background-color: tomato;
+  color: darkblue;
+  text-align: center;
+}
