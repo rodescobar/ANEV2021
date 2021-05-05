@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.Exerc {
+  margin: 5px;
+  background-color: #FAFAFA;
+  font-family: 'Poppins', sans-serif;
+}
+
+.Exerc input {
+  width: 180px;
+  height: 20px;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 40px;
+  outline: 1px solid #c2c2c2;
+  border: 1px solid rgb(30,178,247);
+  background-color: rgb(139, 193, 218);
+}
+
+form div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+form div p {
+  font-weight: bold;
+}
+
+.RCentral {
+  width: 80%;
+  padding: 10px;
+  margin-top: 40px;
+  text-align: center;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.Result {
+  color: darkblue;
+  font-weight: bold;
+  text-align: center;
+  background-color: tomato;
+}

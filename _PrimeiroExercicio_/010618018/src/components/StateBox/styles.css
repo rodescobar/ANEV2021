@@ -1,0 +1,21 @@
+.state_container {
+    width: 80%;
+    padding: 10px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 20px;
+    border: solid 1px #000;
+}
+
+.state_box {
+    display: flex;
+    color: darkblue;
+    text-align: center;
+    flex-direction: column;
+    background-color: tomato;
+}
+
+.state_box p {
+    margin: auto;
+    font-weight: 600;
+}

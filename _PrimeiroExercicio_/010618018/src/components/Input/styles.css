@@ -1,0 +1,19 @@
+.input_container {
+    margin: 5px 0;
+}
+
+.input_label {
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.input_container input {
+    padding: 5px;
+    border-radius: 20px;
+    border: solid 1px rgb(30, 178, 247);
+    background-color: rgb(139, 193, 218);
+}
+
+.input_container input:focus {
+    outline: solid 1px lightgray;
+}
