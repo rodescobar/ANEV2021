@@ -12,7 +12,7 @@ const Login = () => {
             senha: senha
         }
 
-        var url = "http://127.0.0.1:3001/seguro/login"
+        var url = "http://127.0.0.1:3001/usuarios/login"
         axios
             .post(
                 url,

@@ -73,6 +73,12 @@ https://jsonplaceholder.typicode.com/
 - Montando um formulário de login, para validação em servidor remoto
     *OBS: Erro de cors que será visto na aula 11
 
+## Aula 11 - 04/05/2021
+- Acertando o problema de cors no servidor REST API de validação de senha
+- Ententendo o Material-ui e algumas funcionalidades.
+- Utilização do axios para consumir fotos igual aula 09 e estilização com o material
+
+> npm install --save @material-ui/core
 
 # Comandos que mais utilizaremos durante o curso
 **Atualizando a base local com a última versão do git**
