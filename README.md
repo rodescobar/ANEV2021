@@ -80,6 +80,15 @@ https://jsonplaceholder.typicode.com/
 
 > npm install --save @material-ui/core
 
+## Aula 12 - 11/05/2021
+- Trabalhando com Material-ui
+- Conceito do ThemeProvider
+- E aplicando temas
+
+## Aula 13 - 19/05/2021
+- Iremos trabalhar com passagem de parametros entre componentes pais e filhos
+- Implementar um react-carousel na index
+
 # Comandos que mais utilizaremos durante o curso
 **Atualizando a base local com a última versão do git**
 > git pull
