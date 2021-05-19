@@ -86,8 +86,10 @@ https://jsonplaceholder.typicode.com/
 - E aplicando temas
 
 ## Aula 13 - 19/05/2021
-- Iremos trabalhar com passagem de parametros entre componentes pais e filhos
-- Implementar um react-carousel na index
+- Trabalhando com passagem de parametros entre componentes pai e filhos
+- Adição de um carosel (imagens no site)
+
+## Aula 13 - 19/05/2021 (trabalho dt entrega 25/05/2021)
 
 # Comandos que mais utilizaremos durante o curso
 **Atualizando a base local com a última versão do git**
