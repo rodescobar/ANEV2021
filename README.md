@@ -91,6 +91,15 @@ https://jsonplaceholder.typicode.com/
 
 ## Aula 13 - 19/05/2021 (trabalho dt entrega 25/05/2021)
 
+
+## Aula 14 - 25/05/2021
+- Trabalhando com o react-reouter-dom
+- Recebendo Token de validação após login e armazenando em localStorage
+
+## Aula 15 - 01/06/2021
+- Área administrativa buscando token em localStorage e recebendo lista de usuários do backend
+- Área do site, buscando lista de produtos em backend
+
 # Comandos que mais utilizaremos durante o curso
 **Atualizando a base local com a última versão do git**
 > git pull
