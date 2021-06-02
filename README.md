@@ -99,6 +99,12 @@ https://jsonplaceholder.typicode.com/
 ## Aula 15 - 01/06/2021
 - Área administrativa buscando token em localStorage e recebendo lista de usuários do backend
 - Área do site, buscando lista de produtos em backend
+- Criação de Rota provada
+
+## Aula 16 - 08/06/2021
+- Término de verificação de autenticidade do Token na rota privada
+
+
 
 # Comandos que mais utilizaremos durante o curso
 **Atualizando a base local com a última versão do git**
