@@ -104,6 +104,9 @@ https://jsonplaceholder.typicode.com/
 ## Aula 16 - 08/06/2021
 - Término de verificação de autenticidade do Token na rota privada
 
+## Aula 17 - 15/06/2021
+- Informação e tira dúvidas sobre avaliação semestral. 
+- Data de entrega da avaliação 29/06/2021
 
 
 # Comandos que mais utilizaremos durante o curso
